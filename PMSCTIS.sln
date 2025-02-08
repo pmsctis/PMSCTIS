@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMSCTIS", "PMSCTIS\PMSCTIS.csproj", "{DBDA8A28-4561-498C-98BD-7E3BDD77F415}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CORE", "CORE\CORE.csproj", "{946465EF-CD03-462E-95A7-14A971563ACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBDA8A28-4561-498C-98BD-7E3BDD77F415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDA8A28-4561-498C-98BD-7E3BDD77F415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDA8A28-4561-498C-98BD-7E3BDD77F415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDA8A28-4561-498C-98BD-7E3BDD77F415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{946465EF-CD03-462E-95A7-14A971563ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{946465EF-CD03-462E-95A7-14A971563ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{946465EF-CD03-462E-95A7-14A971563ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{946465EF-CD03-462E-95A7-14A971563ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
